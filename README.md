@@ -62,6 +62,7 @@ please cut-and-paste the text from that email here._
 - Scenario: I'm a backend developer that is responsible to develop a login module that handles the user login/logout
 - Assumptions:
   - Assume the frontend and the backend communicate over HTTP.
+  - Assume that we have a databse that stores the user information.
 - Assets:
   - User login informations, including user name, user email, user passwords, etc.
   - The integraity of the database. I need to make sure the safety of the databse from attacks.
